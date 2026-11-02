@@ -88,3 +88,14 @@ cast call --rpc-url $RPC_URL $PAUSE_PROXY "owner()"
 ```
 TEST_MODE=2 ETH_RPC_URL=$RPC_URL forge test
 ```
+
+## Audits
+
+Audit reports are hosted on the auditors' public portfolio pages:
+
+| Auditor | Report | Date |
+| --- | --- | --- |
+| ChainSecurity | [Chief Migration Smart Contracts](https://www.chainsecurity.com/security-audit/sky-chief-migration-smart-contracts/) | 2025-04-30 |
+| Cantina | [chief-migration](https://cantina.xyz/portfolio/064dccba-dcae-4a65-b3b5-7eecdf9809e1) | 2025-04-25 |
+
+ChainSecurity reports are cumulative: each portfolio page hosts the latest version of the report, which covers all previously reviewed versions.
